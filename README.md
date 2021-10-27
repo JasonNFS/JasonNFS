@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jason
 - 👀 I’m interested in C++/Java/Go/Program Analysis/Compiler
-- 🌱 I’m currently learning compiler construction
+- 🌱 I’m working on [Modern Compiler Implementation in C++](https://github.com/JasonNFS/Modern-Compiler-Implementation-in-cpp) / 
 
 <!---
 JasonNFS/JasonNFS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
